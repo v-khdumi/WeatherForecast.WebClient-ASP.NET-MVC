@@ -1,0 +1,104 @@
+﻿@using WeatherForecast.Service.Model;
+@model Tuple<WeatherCurrentResponse, List<ForecastInfo>>
+
+
+@if (Model != null)
+{
+    <div class="container partial-result">
+        <div class="row">
+            <p id="city-name">@Html.DisplayFor(modelItem => Model.Item1.Name), @Html.DisplayFor(modelItem => Model.Item1.Sys.Country) - @DateTime.Now.ToString("yyyy.MM.dd")</p>
+            <div class="col">
+                <div class="row">
+                    <div class="col col-md-4" id="temperature">
+                        <p id="temp">@Html.DisplayFor(modelItem => Model.Item1.Main.Temp)&#176;C</p>
+                        <p id="weath-type">@Html.DisplayFor(modelItem => Model.Item1.Weather[0].Main)</p>
+                        <p id="desc-weather">@Html.DisplayFor(modelItem => Model.Item1.Weather[0].Description)</p>
+
+                    </div>
+                    <div class="col col-md-3" id="weather-image">
+                        @if (Model.Item1.Weather[0].Main == "Clouds")
+                        {
+                            <img alt="Clouds" src="~/Content/images/clouds.png" class="img-responsive">
+                        }
+                        @if (Model.Item1.Weather[0].Main == "Clear")
+                        {
+                            <img alt="Clear" src="~/Content/images/clear.png" class="img-responsive">
+                        }
+                        @if (Model.Item1.Weather[0].Main == "Rain")
+                        {
+                            <img alt="Rain" src="~/Content/images/rain.png" class="img-responsive">
+                        }
+                        @if (Model.Item1.Weather[0].Main == "Thunderstorm")
+                        {
+                            <img alt="Thunderstorm" src="~/Content/images/thunderstorm.png" class="img-responsive">
+                        }
+                        @if (Model.Item1.Weather[0].Main == "Snow")
+                        {
+                            <img alt="Snow" src="~/Content/images/snow.png" class="img-responsive">
+                        }
+                        @if (Model.Item1.Weather[0].Main == "Drizzle")
+                        {
+                            <img alt="Drizzle" src="~/Content/images/drizzle.png" class="img-responsive">
+                        }
+                    </div>
+                    <div id="extra-info" class="col col-md-5">
+                        <p>Pressure: @Html.DisplayFor(modelItem => Model.Item1.Main.Pressure) hpa</p>
+                        <p>Min temp: @Html.DisplayFor(modelItem => Model.Item1.Main.Temp_min)&#176;C</p>
+                        <p>Max temp: @Html.DisplayFor(modelItem => Model.Item1.Main.Temp_max)&#176;C</p>
+                        <p>Wind: @Html.DisplayFor(modelItem => Model.Item1.Wind.Speed) m/s</p>
+                        <p>Humidity: @Html.DisplayFor(modelItem => Model.Item1.Main.Humidity) %</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container partial-result2">
+        <div class="row">
+            @foreach (var item in Model.Item2)
+            {
+                <div class="col-6 col-md-3 column-forecast">
+                    <p id="forecast-date">@Html.DisplayFor(modelItem => item.Dt_txt).ToString().Substring(0, 10).Replace("-", ".")</p>
+                    <p>@Html.DisplayFor(modelItem => item.Weather[0].Main)</p>
+                    <div id="img-forecast">
+                        @if (item.Weather[0].Main == "Clouds")
+                        {
+                            <img alt="Clouds" src="~/Content/images/clouds.png" class="img-responsive">
+                        }
+                        @if (item.Weather[0].Main == "Clear")
+                        {
+                            <img alt="Clear" src="~/Content/images/clear.png" class="img-responsive">
+                        }
+                        @if (item.Weather[0].Main == "Rain")
+                        {
+                            <img alt="Rain" src="~/Content/images/rain.png" class="img-responsive">
+                        }
+                        @if (item.Weather[0].Main == "Thunderstorm")
+                        {
+                            <img alt="Thunderstorm" src="~/Content/images/thunderstorm.png" class="img-responsive">
+                        }
+                        @if (item.Weather[0].Main == "Snow")
+                        {
+                            <img alt="Snow" src="~/Content/images/snow.png" class="img-responsive">
+                        }
+                        @if (item.Weather[0].Main == "Drizzle")
+                        {
+                            <img alt="Drizzle" src="~/Content/images/drizzle.png" class="img-responsive">
+                        }
+                    </div>
+                    <p id="temp-forecast">@Html.DisplayFor(modelItem => item.Main.Temp)&#176;C</p>
+                </div>
+            }
+        </div>
+    </div>
+}
+@if (Model == null)
+{
+    <div class="container partial-result">
+        <div class="row">
+            <div class="col">
+                <h4>Wrong city name</h4>
+            </div>
+        </div>
+    </div>
+}

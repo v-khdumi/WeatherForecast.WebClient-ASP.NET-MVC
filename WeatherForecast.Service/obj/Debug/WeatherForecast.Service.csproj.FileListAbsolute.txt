@@ -1,0 +1,19 @@
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\bin\Debug\WeatherForecast.Service.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\bin\Debug\WeatherForecast.Service.pdb
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.pdb
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.csproj.CopyComplete
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\bin\Debug\System.ValueTuple.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\bin\Debug\System.ValueTuple.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.csprojAssemblyReference.cache
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Debug\WeatherForecast.Service.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Debug\WeatherForecast.Service.pdb
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Debug\System.ValueTuple.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Debug\System.ValueTuple.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.csproj.CopyComplete
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Debug\WeatherForecast.Service.pdb

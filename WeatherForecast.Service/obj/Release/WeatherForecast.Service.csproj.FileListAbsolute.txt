@@ -1,0 +1,10 @@
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Release\WeatherForecast.Service.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Release\WeatherForecast.Service.pdb
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Release\Newtonsoft.Json.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Release\System.ValueTuple.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Release\Newtonsoft.Json.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\bin\Release\System.ValueTuple.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Release\WeatherForecast.Service.csprojAssemblyReference.cache
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Release\WeatherForecast.Service.csproj.CopyComplete
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Release\WeatherForecast.Service.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Service\obj\Release\WeatherForecast.Service.pdb

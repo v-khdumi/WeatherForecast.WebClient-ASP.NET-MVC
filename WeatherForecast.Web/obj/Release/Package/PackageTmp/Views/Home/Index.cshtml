@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div class="row">
+    <div class="main">
+        <h1>Current weather and forecasts in your city</h1>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col col-md-12 search">
+            <div class="s-bar">
+                <i> </i>
+                @using (Ajax.BeginForm("GetWeatherByCity", new AjaxOptions { UpdateTargetId = "results" }))
+                {
+                    <input type="text" value="Yout city name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Yout city name';}" name="city" />
+                    <input type="submit" value="Search" />
+                }
+            </div>
+
+            <div id="results"></div>
+        </div>
+    </div>
+</div>
+
+
+@Scripts.Render("~/scripts/jquery-3.3.1.min.js")
+@Scripts.Render("~/scripts/jquery.unobtrusive-ajax.min.js")

@@ -1,0 +1,130 @@
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Web.dll.config
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Web.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Web.pdb
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csc.exe
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csc.exe.config
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csc.rsp
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csi.exe
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csi.rsp
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.AppContext.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\vbc.exe
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\vbc.exe.config
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\vbc.rsp
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Antlr3.Runtime.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Newtonsoft.Json.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Helpers.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Mvc.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Optimization.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Razor.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Service.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\WebGrease.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Service.pdb
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Helpers.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Mvc.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Optimization.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Razor.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Newtonsoft.Json.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Antlr3.Runtime.pdb
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.csprojAssemblyReference.cache
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.csproj.CopyComplete
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.pdb
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\igors\OneDrive\Рабочий стол\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Mvc.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Web.dll.config
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Web.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Web.pdb
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csc.exe
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csc.exe.config
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csc.rsp
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csi.exe
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\csi.rsp
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.AppContext.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\vbc.exe
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\vbc.exe.config
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\vbc.rsp
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\VBCSCompiler.exe
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Antlr3.Runtime.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Newtonsoft.Json.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.WebHost.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Mvc.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Helpers.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Mvc.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Optimization.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Razor.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Deployment.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Razor.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Service.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\WebGrease.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\WeatherForecast.Service.pdb
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Common.WebHost.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Ninject.Web.Mvc.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Helpers.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Mvc.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Optimization.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.Razor.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Deployment.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\System.Web.WebPages.Razor.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Newtonsoft.Json.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Antlr3.Runtime.pdb
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.csproj.CopyComplete
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.dll
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.pdb
+D:\Programming\C#\WeatherForecastApp\WeatherForecast.Web\obj\Debug\WeatherForecast.Web.csprojAssemblyReference.cache
